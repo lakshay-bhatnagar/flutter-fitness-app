@@ -1,6 +1,16 @@
-# fitness
+# Fitness App
 
-A new Flutter project.
+This is a flutter project which is a Fitness App that shows the calories of different food items and how to make those items.
+
+## Screenshots of application's interface
+
+![Screenshot_1711637266_resized](https://github.com/lakshay-bhatnagar/flutter-fitness-app/assets/138358327/a18a97e1-ab69-4d6b-86a5-9f23459dbea4)
+![Screenshot_1711637273_resized](https://github.com/lakshay-bhatnagar/flutter-fitness-app/assets/138358327/89ada271-91b7-4f27-a3e2-c8a4a932e1e1)
+
+
+## Important
+This app is currently in development stage is not fully completed.
+
 
 ## Getting Started
 
